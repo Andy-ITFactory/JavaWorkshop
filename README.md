@@ -1,4 +1,4 @@
-Dupa ce deschideti linkul intr-un tab nou, apasati "Fork this" ca sa puteti edita codul. \
+Dupa ce deschideti linkul intr-un tab nou, apasati "Fork this" ca sa puteti edita codul. 
 
 Variabile, tipuri de date, print: https://onlinegdb.com/cH2b3Rs1sp \
 Conditionalul "if": https://onlinegdb.com/QHHC-Ckhv \
